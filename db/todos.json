@@ -1,0 +1,32 @@
+[
+  {
+    "id": "622d9c6e-9bda-4e36-a2cd-e63cd2b246b8",
+    "text": "New Todo",
+    "completed": true
+  },
+  {
+    "id": "fefab252-4106-41f2-8b40-e83e9d9f055a",
+    "text": "One more todo",
+    "completed": true
+  },
+  {
+    "id": "fb366499-0c40-441a-813f-9038c18880e6",
+    "text": "Newest todo",
+    "completed": true
+  },
+  {
+    "id": "f84eefac-17de-4abc-b29b-6fcece108c10",
+    "text": "New todo 4",
+    "completed": true
+  },
+  {
+    "id": "85e8b3f9-17ed-4797-afd4-06b1abb014c2",
+    "text": "New New Todo",
+    "completed": true
+  },
+  {
+    "id": "9c118f8c-266d-44b8-abe9-bbd796db6dc2",
+    "text": "New Todo",
+    "completed": false
+  }
+]
