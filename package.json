@@ -1,1 +1,21 @@
-{}
+{
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "name": "node_overview",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --verbose",
+    "blah": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
