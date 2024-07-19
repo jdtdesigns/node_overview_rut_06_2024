@@ -1,0 +1,9 @@
+img {
+  max-width: 100%;
+}
+
+.dino {
+  display: block;
+  max-width: 45%;
+  margin: 45px auto 25px;
+}
