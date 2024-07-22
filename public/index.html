@@ -10,6 +10,12 @@
 <body>
   <h1>Note App</h1>
 
+  <form action="/notes" method="POST">
+    <h2>Create Note</h2>
+    <input name="noteText" type="text" placeholder="Enter the text for your note">
+    <button>Submit</button>
+  </form>
+
   <section class="note-output"></section>
 
   <script src="/js/browser.js"></script>
